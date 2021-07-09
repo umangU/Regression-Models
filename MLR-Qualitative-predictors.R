@@ -1,6 +1,6 @@
-#ISLR library for the Carseats dataset
+# ISLR library for the Carseats dataset
 library(ISLR)
-#Printing the variable names and data-types 
+# Printing the variable names and data-types 
 attach(Carseats)
 names(Carseats)
 str(Carseats)
